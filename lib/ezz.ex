@@ -1,4 +1,4 @@
-defmodule SimsimiBot do
+defmodule Ezz do
 
   def start do
     loop()
